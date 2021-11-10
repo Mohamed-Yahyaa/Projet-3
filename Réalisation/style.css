@@ -8,8 +8,9 @@
     height: 400px;
     background: url(814543.png) no-repeat;
     background-repeat:no-repeat;
-    background-size:cover;
+    background-color: black;
     overflow: hidden;
+    margin-left: 160px;
 }
 .li1 {
     display: inline;
