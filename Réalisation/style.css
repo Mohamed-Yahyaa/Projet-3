@@ -6,11 +6,10 @@
 .ul1{
     width: 100%;
     height: 400px;
-    background: url(814543.png) no-repeat;
+    background: url(Rolex.png) no-repeat;
     background-repeat:no-repeat;
-    background-color: black;
+    background-size:cover;
     overflow: hidden;
-    margin-left: 160px;
 }
 .li1 {
     display: inline;
@@ -62,4 +61,19 @@ textarea{
 header {
     height: 210px;
     width: 100%;
+}
+.rolex{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 200px;
+    height: 200px;
+}
+h2{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 200px;
+    height: 200px;
+    font-size: 12px;
 }
