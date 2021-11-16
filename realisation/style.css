@@ -114,13 +114,14 @@ button {
 footer{
     display: flex;
     justify-content: space-around;
-    background-color: #B9B3AC;
+    background-color: #000000;
     padding-bottom:65px ;
     margin-top: 30px;
     max-width: 100%;
 }
 footer div ul{
     list-style: none;
+    color: white;
 }
 #icon{
    margin-right: 10px;
